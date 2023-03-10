@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Georgi Velev
 - 👀 I’m interested in Web Development & Design.
 - 🌱 I’m currently learning HTML, CSS, JS, C#, SQL.
-- 💞️ I’m looking to collaborate on projects.
+- 💞️ Looking to collaborate on projects.
 - 📫 How to reach me a.velevg@gmai.com
 
 <!---
