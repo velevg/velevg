@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Georgi Velev
-- 👀 I’m interested in Web Development & Design.
-- 🌱 I’m currently learning HTML, CSS, JS, C#, SQL.
-- 💞️ Looking to collaborate on projects.
-- 📫 How to reach me a.velevg@gmai.com
+- 👋 Hi, I’m Georgi Velev!
+
+- 👀 I’m interested in Web Development & Design. I'm passionate about creating interactive and user-friendly experiences on the web.
+
+- 🌱 Currently, I'm expanding my knowledge in HTML, CSS, JS, PHP, and SQL. I enjoy learning new technologies and exploring innovative ways to build exciting projects.
+
+- 💞️ I'm open to collaborating on projects and working with like-minded individuals. Let's create something amazing together!
+
+- 📫 You can reach me at a.velevg@gmail.com. Feel free to drop me a message if you have any questions, suggestions, or exciting opportunities to discuss.
+
 
 <!---
 velevg/velevg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
