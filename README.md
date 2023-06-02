@@ -10,11 +10,11 @@
 
 - 🌱 Currently, I'm expanding my knowledge in HTML, CSS, JS, PHP, and SQL. **I enjoy learning new technologies and exploring innovative ways to build exciting projects.**
 
-- 📫 How to reach me [a.velevg@gmail.com](a.velevg@gmail.com)
-
 - 👀 I’m interested in Web Development & Design. **I'm passionate about creating interactive and user-friendly experiences on the web.**
 
 - 💞️ I'm open to collaborating on projects and working with like-minded individuals. **Let's create something amazing together!**
+
+- 📫 How to reach me [a.velevg@gmail.com](a.velevg@gmail.com)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
