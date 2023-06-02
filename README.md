@@ -20,7 +20,8 @@
 
 <hr/>
 <h3 align="center">Connect with me:</h3>
-<hr align="center" width="20%"/> 
+<p align="center">
+<hr width="20%"/></p>
 <p align="center">
 <a href="https://codepen.io/velevg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="velevg" height="30" width="40" /></a>
 <a href="https://twitter.com/george_velev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="george_velev" height="30" width="40" /></a>
