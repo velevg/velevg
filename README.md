@@ -10,6 +10,7 @@
 <p align="center"> <a href="https://twitter.com/george_velev" target="blank"><img src="https://img.shields.io/twitter/follow/george_velev?logo=twitter&style=for-the-badge" alt="george_velev" /></a> </p>
 
 <hr/>
+
 - 🌱 Currently, I'm expanding my knowledge in HTML, CSS, JS, PHP, and SQL. **I enjoy learning new technologies and exploring innovative ways to build exciting projects.**
 
 - 👀 I’m interested in Web Development & Design. **I'm passionate about creating interactive and user-friendly experiences on the web.**
