@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=velevg&label=Profile%20views&color=0e75b6&style=flat" alt="velevg" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velevg" alt="velevg" /></a> </p>
+<div class="alert alert-info"> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velevg" alt="velevg" /></a> </p> </div>
 
 <p align="center"> <a href="https://twitter.com/george_velev" target="blank"><img src="https://img.shields.io/twitter/follow/george_velev?logo=twitter&style=for-the-badge" alt="george_velev" /></a> </p>
 
