@@ -38,3 +38,10 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=velevg&show_icons=true&locale=en" alt="velevg" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velevg&" alt="velevg" /></p>
+
+## 📊 My Github Stats
+<p align="center">
+  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=velevg&show_icons=true&include_all_commits=true&theme=radical" />
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velevg&include_all_commits=true&theme=radical" />
+  <img width="55%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=velevg&layout=compact&theme=radical" />
+</p>
