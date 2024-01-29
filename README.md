@@ -17,7 +17,7 @@
 
 - 💞️ I'm open to collaborating on projects and working with like-minded individuals. **Let's create something amazing together!**
 
-- 📫 How to reach me [a.velevg@gmail.com](admin@vg-dev.com)
+- 📫 How to reach me [admin@vg-dev.com].
 
 <hr/>
 <h3 align="center">Connect with me:</h3>
