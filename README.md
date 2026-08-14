@@ -1,50 +1,267 @@
-<h1 align="center">Hi 👋, I'm Georgi Velev!</h1>
-<h3 align="center">A passionate web developer from Bulgaria.</h3>
-<p align="center">
-<!--   <img alt="me coding" align="center" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/> -->
+# Hi, I'm Georgi Velev
+
+### Full-Stack / Backend Developer · Laravel · PHP · Python
+
+I build **production web applications, SaaS platforms, APIs, and infrastructure** with a focus on backend architecture, security, performance, and maintainability.
+
+Currently working primarily with **Laravel/PHP** and expanding into **Python, Django, and FastAPI**.
+
+I’m interested in **fully remote backend and full-stack engineering opportunities**.
+
+---
+
+## What I Work With
+
+**Backend**
+
+- PHP / Laravel
+- Python / Django / FastAPI
+- REST APIs
+- MySQL / MariaDB / PostgreSQL
+- Redis
+- Multi-tenant SaaS architecture
+- Background jobs & queues
+
+**Frontend**
+
+- Livewire
+- Blade
+- JavaScript
+- Tailwind CSS
+- Bootstrap
+- Responsive / PWA development
+
+**Infrastructure**
+
+- Linux
+- Docker
+- Nginx
+- Cloudflare
+- VPS administration
+- Git / GitHub
+- CI/CD
+- Application monitoring
+
+**Authentication & Integrations**
+
+- OAuth / social authentication
+- WebAuthn / Passkeys
+- Role-based access control
+- Stripe / Stripe Connect
+- ePay.bg
+- API integrations
+
+---
+
+## Selected Projects
+
+### VHODA — Multi-Tenant PWA
+
+A multi-tenant platform for managing residential building entrances.
+
+**Built with:** Laravel, Livewire, PHP, MySQL, Tailwind CSS
+
+Key areas:
+
+- Multi-tenancy with isolated tenant data
+- Role-based access control
+- Authentication and authorization
+- PWA architecture
+- Real-time functionality
+- Administrative interfaces
+- Production deployment and server configuration
+
+→ https://vhoda.app
+
+---
+
+### Dental Clinic Platform
+
+A production website and web application developed for a dental clinic.
+
+**Built with:** Laravel, PHP, Livewire, JavaScript, MySQL
+
+Areas covered:
+
+- Public-facing website
+- Administrative functionality
+- Appointment-related workflows
+- SEO
+- Responsive UI
+- Backend development
+- Deployment and server administration
+
+→ https://elleadentalclinic.com
+
+---
+
+### VPS Operations Center
+
+A Django-based administration and monitoring application for managing VPS infrastructure.
+
+**Built with:** Python, Django, Django Templates, psutil, Linux
+
+Current functionality includes:
+
+- CPU and memory monitoring
+- Disk usage
+- System information
+- Service status
+- Application and server logs
+- Authentication
+- Administrative dashboard
+
+The project is also part of my transition toward **Python backend development and infrastructure tooling**.
+
+---
+
+## Architecture & Engineering
+
+Some of the areas I have worked with:
+
+- Multi-tenant applications
+- Separate databases per tenant
+- RBAC and permission systems
+- Feature flags
+- Authentication guards
+- OAuth
+- WebAuthn / Passkeys
+- Payment processing
+- Stripe Connect
+- Background workers
+- Redis
+- WebSockets / real-time applications
+- REST APIs
+- Linux server administration
+- Nginx
+- Cloudflare
+- VPS deployment
+- Application performance optimization
+
+I particularly enjoy working on the boundary between **application development and infrastructure**.
+
+---
+
+## Current Focus
+
+```text
+Laravel / PHP
+      ↓
+Python
+      ↓
+Django / FastAPI
+      ↓
+APIs & Backend Systems
+      ↓
+Linux / Infrastructure
+      ↓
+Cloud / DevOps
+```
+
+Currently deepening my knowledge of:
+
+- Python backend development
+- Django
+- FastAPI
+- API architecture
+- Linux administration
+- Docker
+- Cloud infrastructure
+- Security
+- Observability and monitoring
+- AI/LLM integration
+
+---
+
+## Tech Stack
+
+<p align="left">
+
+<a href="https://laravel.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
+</a>
+
+<a href="https://www.php.net/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</a>
+
+<a href="https://www.djangoproject.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+</a>
+
+<a href="https://redis.io/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</a>
+
+<a href="https://nginx.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
+</a>
+
+<a href="https://www.cloudflare.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</a>
+
 </p>
-<hr/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=velevg&label=Profile%20views&color=0e75b6&style=flat" alt="velevg" /> </p>
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velevg" alt="velevg" /></a> </p>
+## GitHub
 
-<p align="center"> <a href="https://twitter.com/george_velev" target="blank"><img src="https://img.shields.io/twitter/follow/george_velev?logo=twitter&style=for-the-badge" alt="george_velev" /></a> </p>
-
-<hr/>
-
-- 🌱 Currently, I'm expanding my knowledge in HTML, CSS, JS, PHP, and SQL. **I enjoy learning new technologies and exploring innovative ways to build exciting projects.**
-
-- 👀 I’m interested in Web Development & Design. **I'm passionate about creating interactive and user-friendly experiences on the web.**
-
-- 💞️ I'm open to collaborating on projects and working with like-minded individuals. **Let's create something amazing together!**
-
-- 📫 How to reach me [georgi@velev-dev.com].
-
-<hr/>
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/velevg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="velevg" height="30" width="40" /></a>
-<a href="https://twitter.com/george_velev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="george_velev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/velevg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="velevg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19324082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19324082" height="30" width="40" /></a>
-<a href="https://fb.com/georgi.velev.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="georgi.velev.18" height="30" width="40" /></a>
-<a href="https://instagram.com/_velev.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_velev.g" height="30" width="40" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=velevg&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=velevg&layout=compact&hide_border=true" />
 </p>
 
-<hr/>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=velevg&show_icons=true&locale=en&layout=compact" alt="velevg" /></p>
+## Connect
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=velevg&show_icons=true&locale=en" alt="velevg" /></p>
+- **LinkedIn:** https://linkedin.com/in/velevg
+- **GitHub:** https://github.com/velevg
+- **Portfolio:** https://velevg.dev
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velevg&" alt="velevg" /></p>
+---
 
-<!--## 📊 My Github Stats
-<p align="center">
-  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=velevg&show_icons=true&include_all_commits=true&theme=radical" />
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velevg&include_all_commits=true&theme=radical" />
-  <img width="55%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=velevg&layout=compact&theme=radical" />
-</p>-->
+### Open to Remote Opportunities
+
+I’m currently interested in **remote Backend / Full-Stack Developer roles**, particularly positions involving:
+
+**PHP/Laravel · Python · Django · FastAPI · SaaS · APIs · Backend Systems · Cloud Infrastructure**
+
+📫 **georgi@velev-dev.com**
