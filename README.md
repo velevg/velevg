@@ -18,7 +18,7 @@ My primary stack is **Laravel/PHP**, while currently expanding into **Python, Dj
 
 **Databases:** MySQL · MariaDB · PostgreSQL · Redis
 
-**Infrastructure:** Linux · Docker · Nginx · Cloudflare · VPS · Git
+**Infrastructure:** Linux · Nginx · Cloudflare · VPS · Git
 
 **Architecture:** Multi-tenancy · RBAC · OAuth · WebAuthn/Passkeys · Queues · WebSockets · Stripe
 
@@ -36,6 +36,20 @@ Residential building management platform built with **Laravel, Livewire, PHP and
 - Real-time functionality
 - PWA
 - Production deployment and server administration
+
+### Multi-Tenant SaaS Admin Panel
+
+A **Laravel-based SaaS administration platform** designed around multi-tenant applications.
+
+- Separate database per tenant
+- Admin authentication and authorization
+- RBAC and granular permissions
+- Feature flags
+- OAuth with Google and Facebook
+- WebAuthn / Passkeys
+- Stripe and Stripe Connect
+- Tenant-specific functionality and middleware
+- Administrative dashboards and management tools
 
 ### [Dental Clinic Platform](https://elleadentalclinic.com)
 
@@ -59,9 +73,13 @@ Django-based VPS monitoring and administration platform built with **Python, Dja
 
 ---
 
-## Currently Learning
+## Interests
 
-**Python · Django · FastAPI · Docker · Linux · Cloud Infrastructure · AI/LLM Integration**
+I'm particularly interested in **backend engineering, application security, cybersecurity, infrastructure, and cloud systems**.
+
+Currently expanding my knowledge in:
+
+**Python · Django · FastAPI · Cybersecurity · Linux · Cloud Infrastructure · AI/LLM Integration**
 
 ---
 
